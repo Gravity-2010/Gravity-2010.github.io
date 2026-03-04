@@ -11,7 +11,7 @@ Hi, I'm **Garvita Jain** — a Software Engineer and MS Computer Science student
 
 This portfolio is designed as an **interactive desktop OS experience** — complete with a BIOS boot sequence, draggable windows, a live taskbar clock, and app icons for each section.
 
-- 🔗 **LinkedIn:** [linkedin.com/in/garvitajain-605a89160](https://www.linkedin.com/in/garvitajain-605a89160)
+- 🔗 **LinkedIn:** [linkedin.com/in/garvitajain-605a89160](https://www.linkedin.com/in/garvita-jain-605a89160/)
 - 🐙 **GitHub:** [github.com/Gravity-2010](https://github.com/Gravity-2010)
 - 📧 **Email:** gijain2@umbc.edu
 
